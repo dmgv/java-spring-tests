@@ -12,8 +12,7 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: staging-spring-tests
-
+      appname: spring-test-dmgv
 general:
   artifacts:
     - /tmp/artifacts/hawkeye_report.json
